@@ -1,6 +1,6 @@
 ### Why, hello there :nazar_amulet:
 
-My name is Marie (She/Her) and I am a Community Engineer for [Harness.io](https://harness.io/). I am currently learning Continuous Integration and Continuous Deployment (CI/CD) along with other Devops topics and processes. Outside of work you can find me volunteering with [Virtual Coffee](https://virtualcoffee.io/) where I help new developers prepare for the job search. 
+My name is Marie (She/Her) and I am a Sales Engineer for [Harness.io](https://harness.io/). Outside of work you can find me volunteering with [Virtual Coffee](https://virtualcoffee.io/) where I help new developers prepare for the job search. 
 
 I offer quick 15 min coffee chats regularly so feel free to book some time on my [calendar](https://calendly.com/marie-antons/community-coffee-chats)
 
