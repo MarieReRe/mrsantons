@@ -2,8 +2,6 @@
 
 My name is Marie (She/Her) and I am a Sales Engineer for [Harness.io](https://harness.io/). Outside of work you can find me volunteering with [Virtual Coffee](https://virtualcoffee.io/) where I help new developers prepare for the job search. 
 
-I offer quick 15 min coffee chats regularly so feel free to book some time on my [calendar](https://calendly.com/marie-antons/community-coffee-chats)
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MarieAntons)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marieantons/)
 
