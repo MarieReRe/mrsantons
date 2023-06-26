@@ -1,6 +1,6 @@
 ### Why, hello there :nazar_amulet:
 
-My name is Marie (She/Her) and I am a Sales Engineer. Outside of work you can find me volunteering with [Virtual Coffee](https://virtualcoffee.io/) where I help new developers prepare for the job search. 
+My name is Marie (She/Her) and I am a Sales Engineer at Datadog. Outside of work you can find me volunteering with [Virtual Coffee](https://virtualcoffee.io/) where I help new developers prepare for the job search. 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MarieAntons)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marieantons/)
